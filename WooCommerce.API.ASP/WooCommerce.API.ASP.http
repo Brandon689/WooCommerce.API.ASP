@@ -1,0 +1,6 @@
+@WooCommerce.API.ASP_HostAddress = http://localhost:5138
+
+GET {{WooCommerce.API.ASP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
